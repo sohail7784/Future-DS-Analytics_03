@@ -16,4 +16,4 @@ Pie chart: Average ratings
 Histograms: Rating distribution
 Bar charts: Avg rating by event type/department & top 3 events
 Sentiment: Bar & pie charts
-# Data set overview
+
